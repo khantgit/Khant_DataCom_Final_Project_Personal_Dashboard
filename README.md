@@ -26,6 +26,3 @@ To uphold responsible data communication standards, the dashboard explicitly hig
 * **Framework:** Streamlit (Hosted via Streamlit Community Cloud)
 * **Data Processing:** Pandas, NumPy
 * **Data Visualization:** Matplotlib, Seaborn
-
-# Launch the Streamlit app
-streamlit run app.py
